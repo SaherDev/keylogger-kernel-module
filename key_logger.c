@@ -153,6 +153,6 @@ static void __exit keylogger_exit(void){
 module_init(keylogger_init);
 module_exit(keylogger_exit);
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("abdalla-shorok");
+MODULE_AUTHOR("saher");
 MODULE_DESCRIPTION("keylogger module");
 MODULE_VERSION("1.0");
